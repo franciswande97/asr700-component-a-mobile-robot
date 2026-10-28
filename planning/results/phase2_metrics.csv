@@ -1,0 +1,4 @@
+algorithm,heuristic,path_found,nodes_expanded,nodes_generated,path_length_m,gap_vs_best_percent,mean_runtime_ms
+Dijkstra,none (h = 0),True,2176,2355,5.373,0.0,12.8839
+A* (Euclidean),Euclidean,True,534,777,5.373,0.0,3.5323
+A* (Manhattan),Manhattan,True,112,231,5.373,0.0,0.7119
