@@ -1,0 +1,12 @@
+metric,value
+Goal reached,yes
+Time to goal (s),29.2
+Planned path length (m),5.37
+Actual path length (m),6.40
+Path length ratio (actual / planned),1.191
+Mean cross-track error (m),0.200
+RMS cross-track error (m),0.415
+Max cross-track error (m),1.451
+Final distance to goal (m),0.100
+Time slowed by perception (s),2.1
+Closest LiDAR reading (m),0.43
